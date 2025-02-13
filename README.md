@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CakesnCodes
-- 👀 I’m interested in ... Game designing, Cryptids, and Puzzle games
+- 👀 I’m interested in ... Web designing, Cryptids, and Puzzle games
 - 🌱 I’m currently learning ... Python, HTML, and cybersecurity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Nothing atm
 - 📫 How to reach me ... You can't atm, Sorry!
 - 😄 Pronouns: ... She/they
 - ⚡ Fun fact: ... My name is inspired by Chef's Hello, World! Cake recipe made by Mike Worth
